@@ -5,7 +5,9 @@ title: SDP bounds on quantum codes
 
 ## SDP bounds on quantum codes
 
-Upper and lower bounds on quantum error correcting codes.
+Upper and lower bounds on quantum error correcting codes. Maximum code size $K$ of nonadditive quantum codes for a given $n$ and $\delta$. 
+Lower and upper bounds are separated by a dash $-$.  If one number is shown only, upper and lower bounds meet. A $0$ implies that such code do not exist. When our SDP improves a known bound, the stronger SDP bound it highlighted in bold with the previous bound in parenthesis.
+
 
 Upper bounds based on the SDP framework developed in 
 
