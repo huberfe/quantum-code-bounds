@@ -1,3 +1,8 @@
+---
+layout: default
+title: Code bounds
+---
+
 markdown: kramdown
 kramdown:
   math_engine: null
