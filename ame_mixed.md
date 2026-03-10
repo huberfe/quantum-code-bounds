@@ -12,8 +12,7 @@ layout: default
 
 ## Generic constructions
 
-[BZ25], Theorem 9: If $$|\psi_1\rangle, \dots, |\psi_r\rangle$$ is an orthonormal basis of a pure 
-\[ (\!( D_1, \dots, D_n), K \lceil r D_1 \dots D_n \rceil )\!) \] 
+[BZ25], Theorem 9: If $$|\psi_1\rangle, \dots, |\psi_r\rangle$$ is an orthonormal basis of a pure $$(\!( D_1, \dots, D_n), K \lceil r D_1 \dots D_n \rceil )\!)$$] 
 code then there is a mixed-dimensional AME with dimensions $$(r, D_1, \dots, D_n)$$ for all $$r \leq K$$.
 
 
