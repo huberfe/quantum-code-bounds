@@ -11,5 +11,7 @@ url: "https://huberfe.github.io/SDP-code-bounds"
 nav:
  - name: "Home"
    link: "index"
+ - name: "SDP bounds"
+   link: "sdp"
  - name: "QMDS bounds"
    link: "qmds"
