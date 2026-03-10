@@ -1,6 +1,5 @@
 ---
 layout: default
-title: QMDS code bounds
 ---
 
 # QMDS code bounds

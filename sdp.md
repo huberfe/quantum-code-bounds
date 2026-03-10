@@ -1,6 +1,5 @@
 ---
 layout: default
-title: SDP bounds on quantum codes
 ---
 
 # SDP bounds on quantum codes

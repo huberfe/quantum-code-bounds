@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Bounds on mixed dimensional AME states
 ---
 
 ## Existence of mixed dimensional AME states
