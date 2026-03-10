@@ -1,27 +1,33 @@
+{% raw %}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
   <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <!-- MathJax -->
     <script>
       window.MathJax = {
         tex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']]
         }
       };
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
-<link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
-
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
   </head>
   <body>
-    <article class="markdown-body">
-    {{ content }}
-    </article>
+    <div id="container">
+      <div class="inner">
+        <header>
+          <h1>{{ page.title }}</h1>
+        </header>
+        <section id="main-content">
+          {{ content }}
+        </section>
+      </div>
+    </div>
   </body>
 </html>
+{% endraw %}
