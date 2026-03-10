@@ -69,5 +69,5 @@ Codes are marked with $$\ast$$ if lower and upper bounds meet.
 ## References and updates:
 Table based on Felix Huber, Markus Grassl, *Quantum Codes of Maximal Distance and Highly Entangled Subspaces*, Quantum 4, 284 (2020), [https://arxiv.org/abs/1907.07733](https://arxiv.org/abs/1907.07733)
 
-Stand: 13 March 2026
+Last updated: 3 March 2026
 
