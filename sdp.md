@@ -42,9 +42,9 @@ $$ (\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 
 
 Upper bounds are based on the SDP framework developed in 
 
-** [MNH24]** Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
+**[MNH24]** Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
 [https://arxiv.org/abs/2408.10323](https://arxiv.org/abs/2408.10323)
 
-** [MH46]** Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
+**[MH46]** Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
 
 Lower bounds based on constructions. (Exhaustive list see below TODO)
