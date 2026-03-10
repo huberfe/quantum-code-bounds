@@ -12,7 +12,7 @@ A stronger SDP bound is highlighted in bold with the previous bound in parenthes
 | **n** \ **d** | **2**          | **3**                      | **4**                   | **5**                   | **6**         | **7** | **8**         |
 |-----------------------------|----------------|----------------------------|-------------------------|-------------------------|---------------|-------|---------------|
 | **7**                       | 24 - 26        | 2 - 3                      | 0                       | 0                       | 0             | 0     | 0             |
-| **8**                       | 64             |    8**(9)              | 1                       | 0                       | 0             | 0     | 0             |
+| **8**                       | 64             |    **8**(9)              | 1                       | 0                       | 0             | 0     | 0             |
 | **9**                       | 96 - 112       | 12 - 13                    | 1                       | 0                       | 0             | 0     | 0             |
 | **10**                      | 256            | 24                         | **4**(5)           | 0                       | 0             | 0     | 0             |
 | **11**                      | 386 - 460      | 32 - **42**(53)       | 4 - 7                   | 2                       | 0             | 0     | 0             |
@@ -27,7 +27,14 @@ A stronger SDP bound is highlighted in bold with the previous bound in parenthes
 
 
 ## For pure codes the bounds marked with $$\alpha$$ strenghten to:
-(add)
+
+$$
+\begin{align}\label{eq:pure_inf}
+ &(\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 \,,  \nn \\
+ &(\!(14,8,5)\!)_2 \,,   \quad  (\! (15,135,4)\!)_2\,, \quad (\!(17,57,5)\!)_2 \,, \quad (\!(19,7314,3)\!)_2 \,.
+\end{align}
+$$
+
 
 ## Some comments to specific codes:
 (add)

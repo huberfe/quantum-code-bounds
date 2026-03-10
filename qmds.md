@@ -10,7 +10,7 @@ Codes are marked with $$\ast$$ if lower and upper bounds meet.
 
 ### local dimension $$D=3$$.
 
-| $$\mathbf{n+k}$$| \textbf{upper} | \textbf{lower} |  |  |
+| $$\mathbf{n+k}$$| **upper** | **lower** |  |  |
 |---|---|---|---|---|
 | $$ 4 $$| $$[\![ 4 , 0 , 3 ]\!]_ 3 $$| $$[\![ 4 , 0 , 3 ]\!]_3 $$   | $$\ast$$ |  Hermitean |
 | $$ 6 $$| $$[\![ 6 , 0 , 4 ]\!]_ 3 $$| $$[\![ 6 , 0 , 4 ]\!]_3 $$   | $$\ast$$ |  Rains~\cite{782103} |
@@ -23,7 +23,7 @@ Codes are marked with $$\ast$$ if lower and upper bounds meet.
 
 ### local dimension $$D=4$$.
 
-| $$\mathbf{n+k}$$| \textbf{upper} | \textbf{lower} |  |  |
+| $$\mathbf{n+k}$$| **upper** | **lower** |  |  |
 |---|---|---|---|---|
 | $$ 4 $$| $$[\![ 4   , 0 , 3 ]\!]_4 $$| $$[\![ 4  , 0 , 3 ]\!]_4 $$| $$\ast$$ | Hermitean |
 | $$ 6 $$| $$[\![ 6   , 0 , 4 ]\!]_4 $$| $$[\![ 6  , 0 , 4 ]\!]_4 $$| $$\ast$$ | Rains~\cite{782103} |
@@ -44,7 +44,7 @@ Codes are marked with $$\ast$$ if lower and upper bounds meet.
 
 ### local dimension $$D=5$$.
 
-| $$\mathbf{n+k}$$| \textbf{upper} | \textbf{lower} |  |  |
+| $$\mathbf{n+k}$$| **upper** | **lower** |  |  |
 |---|---|---|---|---|
 | $$ 4 $$| $$[\![ 4 , 0 , 3 ]\!]_5 $$| $$[\![ 4 , 0 , 3 ]\!]_5 $$| $$\ast$$ | Hermitean |
 | $$ 6 $$| $$[\![ 6 , 0 , 4 ]\!]_5 $$| $$[\![ 6 , 0 , 4 ]\!]_5 $$| $$\ast$$ | Rains~\cite{782103} |
