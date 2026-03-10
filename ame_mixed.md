@@ -6,15 +6,15 @@ title: Bounds on mixed dimensional AME states
 ## Existence of mixed dimensional AME states
 
 |
-| \(2 \times 3 \times 3 \times 3\) |  [HESG18] | 
-| \(2 \times 5 \times 5 \times 5\) |  [BZ25]   | 
-| \(3 \times 5 \times 5 \times 5\) |  [BZ25] | 
-| \(4 \times 5 \times 5 \times 5\) |  [BZ25] | 
+| $2 \times 3 \times 3 \times 3$ |  [HESG18] | 
+| $2 \times 5 \times 5 \times 5$ |  [BZ25]   | 
+| $3 \times 5 \times 5 \times 5$ |  [BZ25] | 
+| $4 \times 5 \times 5 \times 5$ |  [BZ25] | 
 
 ## Generic construction
-[BZ25], Theorem 9: If \(\psi_1, \dots, \psi_r\) is an orthonormal basis of a pure 
+[BZ25], Theorem 9: If $\psi_1, \dots, \psi_r$ is an orthonormal basis of a pure 
 \[ (\!( D_1, \dots, D_n), K \lceil r D_1 \dots D_n \rceil )\!) \] 
-code then there is a mixed-dimensional AME with dimensions \((r, D_1, \dots, D_n)\) for all $r \leq K$.
+code then there is a mixed-dimensional AME with dimensions $(r, D_1, \dots, D_n)$ for all $r \leq K$.
 
 
 ## References
