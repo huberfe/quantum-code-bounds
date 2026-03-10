@@ -8,9 +8,8 @@ kramdown:
   math_engine_opts:
     preview: true
 
-title: SDP bounds on quantum codes
+title: Bounds on quantum codes
 url: "https://huberfe.github.io/code-bounds"
-
 
 nav:
  - name: "Home"
