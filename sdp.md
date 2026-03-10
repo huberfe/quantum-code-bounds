@@ -46,8 +46,9 @@ $$
 
 Upper bounds are based on the SDP framework developed in 
 
-- Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
+** [MNH24]** Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, 
 [https://arxiv.org/abs/2408.10323](https://arxiv.org/abs/2408.10323)
-- Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
+
+** [MH46]** Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
 
 Lower bounds based on constructions. (Exhaustive list see below TODO)
