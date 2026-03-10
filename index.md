@@ -14,7 +14,6 @@ This repository focuses on bounds for specific quantum codes:
 There is the great collection of bounds for additive/stabilizer quantum codes at [Code Tables](www.codetables.de).
 
 
-
 ## How to cite this repo
 
 Use this BibTeX entry:
@@ -30,12 +29,13 @@ Use this BibTeX entry:
 ```
 
 
-
-### Related sites:
+## Related sites
 - [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
 - [Quantum MaxCut Reference](https://marwahaha.github.io/quantum-maxcut-reference/)
 - [Code Tables](https://www.codetables.de)
  
+## Contribute
+
 Updates via pull requests ("improve this page" button below) 
 or email (felix PUNKT huber ät physik PUNKT uni-siegen PUNKT de) welcome.
 
