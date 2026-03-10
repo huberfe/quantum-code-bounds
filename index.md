@@ -14,13 +14,13 @@ This repository focuses on specialised bounds:
   
   
 There is the great collection of bounds for additive/stabilizer quantum codes at [Code Tables](www.codetables.de).
-
-Updates via pull requests ("improve this page" button below) 
-or email (felix.huber ät physik.uni-siegen.de) welcome.
-
  
 ### Other sites:
  - [Quantum MaxCut Reference](https://marwahaha.github.io/quantum-maxcut-reference/)
  - [Optimization Constants in Mathematics](https://teorth.github.io/optimizationproblems/)
  - [Code Tables](https://www.codetables.de)
+ 
+Updates via pull requests ("improve this page" button below) 
+or email (felix.huber ät physik.uni-siegen.de) welcome.
+
  
