@@ -1,7 +1,13 @@
-Maximum code size $K$ of nonadditive quantum codes for a given $n$ and $\delta$. 
-Lower and upper bounds are separated by a dash $-$. 
-If one number is shown only, upper and lower bounds meet.
-A $0$ implies that such code do not exist.
-When our SDP improves a known bound, the stronger SDP bound it highlighted in bold with the previous bound in parenthesis.
+---
+layout: default
+title: SDP, AME, QMDS bounds
+---
 
-Based on Gerard Munné and Felix Huber, SDP bounds on quantum codes: exact certificates
+## Bounds on quantum codes.
+
+ - [SDP bounds](sdp.md)
+ - [QMDS bounds](qmds.md)
+ - [AME bounds](ame.md)
+ 
+ Any updates via pull requests ("improve this page" button below) 
+ or email (felix.huber ät physik.uni-siegen.de) are appreciated.
