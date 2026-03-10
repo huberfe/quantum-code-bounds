@@ -23,19 +23,3 @@ There is the great collection of bounds on additive/stabilizer quantum codes at 
 
 Updates via pull requests ("improve this page" button below) 
 or email (felix PUNKT huber ät physik PUNKT uni-siegen PUNKT de) welcome.
-
-### How to cite this repo
-
-Use this BibTeX entry:
-
-```
-@misc{quantum-code-bounds,
-  title = {Bounds on quantum codes},
-  author = {Felix Huber and contributors},
-  year = {2026},
-  howpublished = {GitHub repository},
-  url = {https://huberfe.github.io/quantum-code-bounds/}
-}
-```
-
- 
