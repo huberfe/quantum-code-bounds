@@ -12,8 +12,8 @@ This repository focuses on stronger or specialised bounds:
  2. [QMDS bounds](qmds.md)
  3. [SDP bounds](sdp.md)
   
- Updates welcome via pull requests ("improve this page" button below) 
- or email (felix.huber ät physik.uni-siegen.de).
+ Updates via pull requests ("improve this page" button below) 
+ or email (felix.huber ät physik.uni-siegen.de) welcome.
 
  
 ## Other sites:
