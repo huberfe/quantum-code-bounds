@@ -33,6 +33,6 @@ J. Phys. A: Math. Theor. 51 175301 (2018), [arXiv:1708.06298](https://arxiv.org/
 Here the requirement is that all subsystems of size $$\lfloor \tfrac{n}{2}\rfloor$$ is maximally mixed.
 
 | dimensions | Reference |
-| $$2 \times 2 \times 3 |  [GBZ16] | 
+| $$2 \times 2 \times 3$$ |  [GBZ16] | 
 
 ** [GBZ16] Dardo Goyeneche, Jakub Bielawski, Karol Życzkowski, Multipartite entanglement in heterogeneous systems, Physical Review A 94, 012346 (2016), [arXiv:1602.08064](https://arxiv.org/abs/1602.08064)
