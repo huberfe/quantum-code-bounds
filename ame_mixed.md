@@ -28,11 +28,9 @@ J. Phys. A: Math. Theor. 51 175301 (2018), [arXiv:1708.06298](https://arxiv.org/
 **[BZ25]**  Simeon Ball, Raven Zhang, "Error-correcting codes and absolutely maximally entangled states for mixed dimensional Hilbert spaces", [arXiv:2510.17231](https://arxiv.org/abs/2510.17231)
 
 
-## Maximally mixed convention
+### Maximally mixed convention
 
 Here the requirement is that all subsystems of size $$\lfloor \tfrac{n}{2}\rfloor$$ is maximally mixed.
-
-| dimensions | Reference |
-| $$2 \times 2 \times 3$$ |  [GBZ16] | 
+[GBZ16] found a $$2 \times 2 \times 3$$ state.
 
 **[GBZ16]** Dardo Goyeneche, Jakub Bielawski, Karol Życzkowski, Multipartite entanglement in heterogeneous systems, Physical Review A 94, 012346 (2016), [arXiv:1602.08064](https://arxiv.org/abs/1602.08064)
