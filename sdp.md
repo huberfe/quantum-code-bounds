@@ -40,12 +40,14 @@ $$ (\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 
 
 ## References
 
-Upper bounds are based on the SDP framework developed in 
+### Upper bounds
+
+are based on the SDP framework developed in 
 
 **[MNH24]** Gerard Anglès Munné, Andrew Nemec, Felix Huber, *SDP bounds on quantum codes*, [https://arxiv.org/abs/2408.10323](https://arxiv.org/abs/2408.10323)
 
 **[MH46]** Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
 
-Lower bounds based on
+#### Lower bounds 
 
 **[ROJ19]** Alex Rigby, J. C. Olivier, and Peter Jarvis, *Heuristic construction of codeword stabilized codes*, Phys. Rev. A, 100(6), (arXiv1907.04537](https://arxiv.org/abs/1907.04537)
