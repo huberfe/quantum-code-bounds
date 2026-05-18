@@ -51,3 +51,10 @@ are based on the SDP framework developed in
 #### Lower bounds 
 
 **[ROJ19]** Alex Rigby, J. C. Olivier, and Peter Jarvis, *Heuristic construction of codeword stabilized codes*, Phys. Rev. A, 100(6), [arXiv1907.04537](https://arxiv.org/abs/1907.04537)
+
+
+#### Cite as:
+
+> Gerard Anglès Munné and Felix Huber \\
+> Onlines tables: SDP bounds on quantum codes\\
+> 2026
