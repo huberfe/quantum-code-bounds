@@ -52,7 +52,7 @@ are based on the SDP framework developed in
 **[Gra07]** Markus Grassl. *Bounds on the minimum distance of linear codes and quantum codes*, 2007. Online available at [http://www.codetables.de](http://www.codetables.de).
 
 
-#### Cite as:
+## Cite as:
 
 > Gerard Anglès Munné and Felix Huber \\
 > SDP bounds on quantum codes: Online tables \\
