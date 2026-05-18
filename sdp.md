@@ -4,8 +4,9 @@ layout: default
 
 # SDP bounds on quantum codes
 
-Maximum code size $$K$$ of nonadditive quantum codes for a given $$n$$ and $$\delta$$. 
-Lower and upper bounds are separated by a dash $$-$$.  Upper and lower bounds meet if only one number is shown. 
+Maximum code size $$K$$ of nonadditive quantum codes for a given $$n$$ and $$\delta$$. \\
+Lower and upper bounds are separated by a dash $$-$$.  \\
+Upper and lower bounds meet if only one number is shown.  \\
 A stronger SDP bound is highlighted in bold with the previous bound in parenthesis.
 
 
@@ -32,9 +33,6 @@ A stronger SDP bound is highlighted in bold with the previous bound in parenthes
 $$ (\!(6,1,3)\!)_2 \,,  \quad  (\!(11,41,3)\!)_2 \,,  \quad  (\!(14,290,3)\!)_2 \,, 
  (\!(14,8,5)\!)_2 \,,   \quad  (\! (15,135,4)\!)_2\,, \quad (\!(17,57,5)\!)_2 \,, \quad (\!(19,7314,3)\!)_2 \,.$$
 
-## Some comments to specific codes:
-(add)
-
 ## Updates since 10 March 2026:
 (none)
 
@@ -51,6 +49,7 @@ are based on the SDP framework developed in
 #### Lower bounds 
 
 **[ROJ19]** Alex Rigby, J. C. Olivier, and Peter Jarvis, *Heuristic construction of codeword stabilized codes*, Phys. Rev. A, 100(6), [arXiv1907.04537](https://arxiv.org/abs/1907.04537)
+**[Gra07]** Markus Grassl. *Bounds on the minimum distance of linear codes and quantum codes*, 2007. Online available at [http://www.codetables.de](http://www.codetables.de).
 
 
 #### Cite as:
