@@ -55,5 +55,5 @@ are based on the SDP framework developed in
 #### Cite as:
 
 > Gerard Anglès Munné and Felix Huber \\
-> Onlines tables: SDP bounds on quantum codes\\
+> SDP bounds on quantum codes: Online tables \\
 > 2026
