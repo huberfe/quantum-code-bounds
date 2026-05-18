@@ -46,7 +46,7 @@ are based on the SDP framework developed in
 
 **[MH46]** Gerard Anglès Munné, Felix Huber, *SDP bounds on quantum codes: Exact certificates*, on arXiv soon
 
-#### Lower bounds 
+### Lower bounds 
 
 **[ROJ19]** Alex Rigby, J. C. Olivier, and Peter Jarvis, *Heuristic construction of codeword stabilized codes*, Phys. Rev. A, 100(6), [arXiv1907.04537](https://arxiv.org/abs/1907.04537)
 **[Gra07]** Markus Grassl. *Bounds on the minimum distance of linear codes and quantum codes*, 2007. Online available at [http://www.codetables.de](http://www.codetables.de).
