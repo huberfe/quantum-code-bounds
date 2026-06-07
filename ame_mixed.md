@@ -9,6 +9,9 @@ if maximal entanglement is present over the given bipartition.
 A second convention (below) asks for maximal mixed marginals on all subsystems of size $$n/2$$.
 
 | dimensions | Reference |
+| $$2 \times 2 \times 3 $$ |  [GB26] | 
+| $$2 \times 3 \times 3 $$ |  [GB26] | 
+| $$2 \times 3 \times 4 $$ |  [GB26] | 
 | $$2 \times 3 \times 3 \times 3$$ |  [HESG18] | 
 | $$2 \times 5 \times 5 \times 5$$ |  [BZ25]   | 
 | $$3 \times 5 \times 5 \times 5$$ |  [BZ25] | 
@@ -21,6 +24,8 @@ code then there is a mixed-dimensional AME with dimensions $$(r, D_1, \dots, D_n
 
 
 ## References
+
+**[GB26]** David González-Lociga and Simeon Ball, *The mixed-dimensional quantum MacWilliams identity: bounds for codes and absolutely maximally entangled states in heterogeneous systems*, [arXiv:2604.25790](https://arxiv.org/abs/2604.25790)
 
 **[HESG18]** Felix Huber, Christopher Eltschka, Jens Siewert, Otfried Gühne, *Bounds on absolutely maximally entangled states from shadow inequalities, and the quantum MacWilliams identity*,
 J. Phys. A: Math. Theor. 51 175301 (2018), [arXiv:1708.06298](https://arxiv.org/abs/1708.0629)
