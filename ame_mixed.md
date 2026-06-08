@@ -8,7 +8,7 @@ This table follows the convention that a mixed-dimenensional (heterogeneous) pur
 if maximal entanglement is present over the given bipartition. 
 A second convention (below) asks for maximal mixed marginals on all subsystems of size $$n/2$$.
 
-| $$\exists$ | dimensions | Reference |
+| Existence | dimensions | Reference |
 | $$\exists$ | $$2 \times 2 \times 3 $$ |  [GB26] | 
 | $$\exists$ | $$2 \times 3 \times 3 $$ |  [GB26] | 
 | $$\exists$ | $$2 \times 3 \times 4 $$ |  [GB26] | 
