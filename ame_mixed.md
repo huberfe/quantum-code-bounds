@@ -12,9 +12,12 @@ A second convention (below) asks for maximal mixed marginals on all subsystems o
 | Y | $$2 \times 2 \times 3 $$ |  [GB26] | 
 | Y | $$2 \times 3 \times 3 $$ |  [GB26] | 
 | Y | $$2 \times 3 \times 4 $$ |  [GB26] | 
+| Y | $$2 \times 4 \times 4 $$ |  [H26] | 
+| Y | $$2 \times 4 \times 6 $$ |  [H26] | 
 | Y | $$3 \times 3 \times 4 $$ |  [GB26] | 
 | Y | $$3 \times 4 \times 4 $$ |  [GB26] | 
 | N | $$2 \times 2 \times 2 \times 3$$ |  [HESG18] | 
+| Y | $$2 \times 2 \times 2 \times 4$$ |  [H26] | 
 | N | $$2 \times 2 \times 3 \times 3$$ |  [HESG18] | 
 | Y | $$2 \times 3 \times 3 \times 3$$ |  [HESG18] | 
 | Y | $$2 \times 5 \times 5 \times 5$$ |  [BZ25]   | 
@@ -36,6 +39,7 @@ J. Phys. A: Math. Theor. 51 175301 (2018), [arXiv:1708.06298](https://arxiv.org/
 
 **[BZ25]**  Simeon Ball, Raven Zhang, "Error-correcting codes and absolutely maximally entangled states for mixed dimensional Hilbert spaces", [arXiv:2510.17231](https://arxiv.org/abs/2510.17231)
 
+**[H26]** Felix Huber, Constructions using AI.
 
 ### Maximally mixed convention
 
