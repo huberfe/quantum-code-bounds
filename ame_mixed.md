@@ -9,15 +9,15 @@ if maximal entanglement is present over the given bipartition.
 A second convention (below) asks for maximal mixed marginals on all subsystems of size $$n/2$$.
 
 | Existence | dimensions | Reference |
-| $$\exists$ | $$2 \times 2 \times 3 $$ |  [GB26] | 
-| $$\exists$ | $$2 \times 3 \times 3 $$ |  [GB26] | 
-| $$\exists$ | $$2 \times 3 \times 4 $$ |  [GB26] | 
-| $$\nexists$ | $$2 \times 2 \times 2 \times 3$$ |  [HESG18] | 
-| $$\nexists$ | $$2 \times 2 \times 3 \times 3$$ |  [HESG18] | 
-| $$\exists$ | $$2 \times 3 \times 3 \times 3$$ |  [HESG18] | 
-| $$\exists$ | $$2 \times 5 \times 5 \times 5$$ |  [BZ25]   | 
-| $$\exists$ | $$3 \times 5 \times 5 \times 5$$ |  [BZ25] | 
-| $$\exists$ | $$4 \times 5 \times 5 \times 5$$ |  [BZ25] | 
+| Y | $$2 \times 2 \times 3 $$ |  [GB26] | 
+| Y | $$2 \times 3 \times 3 $$ |  [GB26] | 
+| Y | $$2 \times 3 \times 4 $$ |  [GB26] | 
+| N | $$2 \times 2 \times 2 \times 3$$ |  [HESG18] | 
+| N | $$2 \times 2 \times 3 \times 3$$ |  [HESG18] | 
+| Y | $$2 \times 3 \times 3 \times 3$$ |  [HESG18] | 
+| Y | $$2 \times 5 \times 5 \times 5$$ |  [BZ25]   | 
+| Y | $$3 \times 5 \times 5 \times 5$$ |  [BZ25] | 
+| Y | $$4 \times 5 \times 5 \times 5$$ |  [BZ25] | 
 
 ## Generic constructions
 
