@@ -12,6 +12,8 @@ A second convention (below) asks for maximal mixed marginals on all subsystems o
 | Y | $$2 \times 2 \times 3 $$ |  [GB26] | 
 | Y | $$2 \times 3 \times 3 $$ |  [GB26] | 
 | Y | $$2 \times 3 \times 4 $$ |  [GB26] | 
+| Y | $$3 \times 3 \times 4 $$ |  [GB26] | 
+| Y | $$3 \times 4 \times 4 $$ |  [GB26] | 
 | N | $$2 \times 2 \times 2 \times 3$$ |  [HESG18] | 
 | N | $$2 \times 2 \times 3 \times 3$$ |  [HESG18] | 
 | Y | $$2 \times 3 \times 3 \times 3$$ |  [HESG18] | 
