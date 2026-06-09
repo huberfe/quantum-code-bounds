@@ -43,7 +43,7 @@ J. Phys. A: Math. Theor. 51 175301 (2018), [arXiv:1708.06298](https://arxiv.org/
 
 **[BZ25]**  Simeon Ball, Raven Zhang, "Error-correcting codes and absolutely maximally entangled states for mixed dimensional Hilbert spaces", [arXiv:2510.17231](https://arxiv.org/abs/2510.17231)
 
-**[H26]** Felix Huber, Constructions using AI.
+**[H26]** Felix Huber, In preparation.
 
 ### Maximally mixed convention
 
