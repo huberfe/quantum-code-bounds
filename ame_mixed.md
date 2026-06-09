@@ -32,7 +32,7 @@ code then there is a mixed-dimensional AME with dimensions $$(r, D_1, \dots, D_n
 
 ## No-go
 
-Let $$q\neq$$. Then $$(q,p, qp-1)$$ does not exist. [H26]
+Let $$p\neq q$$. Then $$(p,q, pq-1)$$ does not exist. [H26]
 
 ## References
 
