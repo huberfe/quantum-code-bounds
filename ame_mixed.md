@@ -12,7 +12,8 @@ A second convention (below) asks for maximal mixed marginals on all subsystems o
 | Y | $$2 \times 2 \times 3 $$ |  [GB26] | 
 | Y | $$2 \times 3 \times 3 $$ |  [GB26] | 
 | Y | $$2 \times 3 \times 4 $$ |  [GB26] | 
-| Y | $$2 \times 4 \times 4 $$ |  [H26] | 
+| N | $$2 \times 3 \times 5 $$ |  [H26] | 
+| Y | $$2 \times 4 \times 4 $$ |  [H26] |
 | Y | $$2 \times 4 \times 6 $$ |  [H26] | 
 | Y | $$3 \times 3 \times 4 $$ |  [GB26] | 
 | Y | $$3 \times 4 \times 4 $$ |  [GB26] | 
@@ -29,6 +30,9 @@ A second convention (below) asks for maximal mixed marginals on all subsystems o
 **[BZ25]**, Theorem 9: If $$|\psi_1\rangle, \dots, |\psi_r\rangle$$ is an orthonormal basis of a pure $$(\!( D_1, \dots, D_n), K, \lceil r D_1 \dots D_n \rceil )\!)$$] 
 code then there is a mixed-dimensional AME with dimensions $$(r, D_1, \dots, D_n)$$ for all $$r \leq K$$.
 
+## No-go
+
+Let $$q\neq$$. Then $$(q,p, qp-1)$$ does not exist. [H26]
 
 ## References
 
